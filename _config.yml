@@ -1,7 +1,7 @@
 name: uxmonkey
 favicon: null
-layout_spectrum: 0.1187805135268718
-typography_spectrum: 0.6543631332460791
+layout_spectrum: 1
+typography_spectrum: 0.65615
 title: UX Monkey
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.10580031643621624
-  lightness: 0.559028351912275
-  saturation: 0.1776594768743962
+    - '#000000'
+    - '#ffffff'
+    - '#0076bd'
+    - '#d1cec8'
+    - '#4ea1d8'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.25
   rhythmicContrast: 0.32899573468603194
 purpose: []
