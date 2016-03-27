@@ -2,6 +2,7 @@ name: uxmonkey
 favicon: null
 layout_spectrum: 0.1187805135268718
 typography_spectrum: 0.6543631332460791
+title: UX Monkey
 cta:
   domain: null
   bucket: null
